@@ -2,8 +2,8 @@
 from pyrogram import filters
 
 # Get these two from https://my.telegram.org
-API_ID = 1234567
-API_HASH = "ab1c23def45fg67890h123i45678j9kl"
+API_ID = 
+API_HASH = ""
 
 # Get this from @Botfather
 TOKEN = "1234567890:ABCdEFgHij1KlMNop_QrStuVWxyzuA-EmXI"
@@ -13,13 +13,13 @@ MONGO_DB_URI = ""
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
-    383407735,
-    951435494,
-    1392620345
+,
+,
+
 ]
 
 # The ID of the group where your bot streams
-GROUP = -1001402753006
+GROUP = 
 
 # Users must join the group before using the bot (note: the bot should be admin in the group if you enable this)
 USERS_MUST_JOIN = False
